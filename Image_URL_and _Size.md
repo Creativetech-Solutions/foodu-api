@@ -29,6 +29,5 @@ woocommerce_single  : 600px
 
 #### How to access ? 
 
-To access this visit to : 
-This is a example link :
-http://foodu.ctsdemo.com/image_API/product.php?id=5172 
+This is an example link here: 
+http://foodu.ctsdemo.com/image_API/product.php?id=5172

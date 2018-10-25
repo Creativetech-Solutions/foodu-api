@@ -1,4 +1,4 @@
-## Documentation for product detail Image URL and Size
+## Documentation for Product Detail, Image URL and Size
 ### Image sizes: 
 
 We have to provide a product ID   in URL(http://foodu.ctsdemo.com/image_API/product.php?id=123..). 

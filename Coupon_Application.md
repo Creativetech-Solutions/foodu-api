@@ -1,9 +1,9 @@
 ## Documentation for Coupon Application
 ### Coupon discount types:
 There are three types of coupon discount
-   ### Percentage discount.
-   ### Fixed cart discount.  
-   ### Fixed product discount.  
+   #### Percentage discount.
+   #### Fixed cart discount.  
+   #### Fixed product discount.  
      
     1) A Percentage discount -A Percentage discount for selected products only. For example, if the cart contains three (3) items @ $20 each = $60, a coupon for 10% off applies a discount of $6. 
 

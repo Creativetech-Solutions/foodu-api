@@ -24,15 +24,7 @@ There are three types of coupon discount
       "coupon_code":"XXX" 
       
       order JSON would be like this
-      "shipping_lines" :[
-    {
-      "method_id" : "flat_rate",
-      "method_title" : "Flat Rate",
-      "total": "XXX"
-    }
-  ],
-  "coupon_code":"XXX",
-
+   
       "line_items": [
     {
       "product_id": XXX,
@@ -49,9 +41,10 @@ There are three types of coupon discount
        ]
      }
     ],
-  
-
-
-
-
- 
+       "shipping_lines" :[
+    {
+      "method_id" : "flat_rate",
+      "method_title" : "Flat Rate",
+      "total": "XXX"
+    }
+     ]

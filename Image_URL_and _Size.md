@@ -31,3 +31,6 @@ woocommerce_single  : 600px
 
 This is an example link here: 
 http://foodu.ctsdemo.com/image_API/product.php?id=5172
+
+#### NOTE: 
+New images which are uploaded will be converted in different sizes old are not.

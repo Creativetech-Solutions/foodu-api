@@ -27,11 +27,11 @@ There are three types of coupon discount
       "line_items": [
     {
       "product_id": XXX,
-      "quantity": 1,
+      "quantity": XX,
       "meta_data" :[
        {
         "key" : "delivery_time",
-        "value" : "9pm"
+        "value" : "XXX"
        },
        {
         "key" : "cost_price",

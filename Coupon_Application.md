@@ -22,8 +22,35 @@ There are three types of coupon discount
       “key”: “name”  e.g 
 
       "coupon_code":"XXX" 
-   ### Calculation for coupon:
-    When a coupon sent with order, first we plus our products total and delivery charges and hen minus our coupon value from total.
-    
-   ### Algorithm for coupon:
-        Products total + delivery charges – coupon 
+      
+      order JSON would be like this
+      "line_items": [
+    {
+      "product_id": XXX,
+      "quantity": 1,
+      "meta_data" :[
+       {
+        "key" : "delivery_time",
+        "value" : "9pm"
+       },
+       {
+        "key" : "cost_price",
+        "value" : "XXX"
+       }
+       ]
+    }
+  ],
+  "shipping_lines": [
+    {
+      "method_id": "flat_rate",
+      "method_title": "Flat Rate",
+      "total": "XXX"
+    }
+  ],
+  "coupon_code":"XXX"
+}
+
+
+
+
+ 

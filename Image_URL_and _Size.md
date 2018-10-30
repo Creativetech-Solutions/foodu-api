@@ -1,7 +1,7 @@
 ## Documentation for Product Detail, Image URL and Size
 ### Image sizes: 
 
-We have to provide a product ID   in URL(http://site-URL/image_API/product.php?id=123..). 
+We have to provide a product ID   in URL(http://site-URL/image_api/product.php?id=123..). 
 
 It will also get the ID, Name and price of product as well. 
 
@@ -30,7 +30,7 @@ woocommerce_single  : 600px
 #### How to access ? 
 
 This is an example link here: 
-http://foodu.ctsdemo.com/image_API/product.php?id=5172
+http://foodu.ctsdemo.com/image_api/product.php?id=5172
 
 #### NOTE: 
 New images which are uploaded will be converted in different sizes old are not.
